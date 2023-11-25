@@ -12,8 +12,8 @@ WebServer server(80);
 int a = 0;
 Audio audio;
 
-String ssid =    "29 lt 2";
-String password = "bangbayarbang29";
+String ssid =    "ssid";
+String password = "password";
 
 String url[][2] = {
   {"Bass 93.2 FM"," http://live.bassfm.id/;"}
