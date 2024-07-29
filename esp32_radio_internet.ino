@@ -28,8 +28,8 @@ const int down = 22;
 const int vol_up = 19;
 const int vol_down = 21;
 
-String ssid =    "Viruz";
-String password = "ichalove";
+String ssid =    "gundul123";
+String password = "jagung123";
 String IP;
 
 String url[][2] = {
